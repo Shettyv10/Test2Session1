@@ -1,4 +1,4 @@
-i lo#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 void input_line(float *x, float *y)
